@@ -9,3 +9,4 @@
 import Foundation
 
 //test merge conflict
+//New merge
