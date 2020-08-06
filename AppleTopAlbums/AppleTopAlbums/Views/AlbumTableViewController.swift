@@ -11,11 +11,7 @@ import UIKit
 class AlbumTableViewController: UIViewController, UITableViewDataSource ,UITableViewDelegate {
     
     //This is for testing purposes
-    
-    func testFunc1(){
-        print("testing Merge conflict")
-    }
-    
+
     
     private let viewModel = ViewModel()
 
