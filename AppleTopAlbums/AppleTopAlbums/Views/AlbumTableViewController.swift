@@ -11,7 +11,9 @@ import UIKit
 class AlbumTableViewController: UIViewController, UITableViewDataSource ,UITableViewDelegate {
     
     //This is for testing purposes
-
+    func newFunc(){
+        print("merge isnt working")
+    }
     
     private let viewModel = ViewModel()
 
