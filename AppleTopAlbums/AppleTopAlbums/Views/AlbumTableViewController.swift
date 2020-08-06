@@ -10,6 +10,12 @@ import UIKit
 
 class AlbumTableViewController: UIViewController, UITableViewDataSource ,UITableViewDelegate {
     
+    //This is for testing purposes
+    
+    func testFunc1(){
+        print("testing")
+    }
+    
     private let viewModel = ViewModel()
 
     
