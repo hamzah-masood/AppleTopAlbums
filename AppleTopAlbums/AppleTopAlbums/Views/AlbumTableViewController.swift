@@ -14,7 +14,9 @@ class AlbumTableViewController: UIViewController, UITableViewDataSource ,UITable
     
     func testFunc1(){
         print("testing")
+        print("testing Merge conflict")
     }
+    
     
     private let viewModel = ViewModel()
 
