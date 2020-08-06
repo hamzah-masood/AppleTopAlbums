@@ -13,7 +13,6 @@ class AlbumTableViewController: UIViewController, UITableViewDataSource ,UITable
     //This is for testing purposes
     
     func testFunc1(){
-        print("testing")
         print("testing Merge conflict")
     }
     
